@@ -1,1 +1,8 @@
+.item-form-description {
+    background-color: cadetblue;
+}
 
+ul.list {
+    list-style-type: none;
+    padding: 0; /* Optional: Removes default padding */
+  }
